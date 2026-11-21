@@ -29,7 +29,7 @@ All sample cards are placeholders. Do not enter real personal data.
 - Tailwind CSS 4.3.5
 - Vitest 5.1.1
 
-Versions are pinned in `package.json`. The CI workflow generates an npm lockfile from the pinned manifest and uploads it as an artifact; the reviewed lockfile must be committed before installation is considered fully reproducible.
+Versions are pinned in `package.json`, and the generated `package-lock.json` (lockfileVersion 3) is committed. `npm ci` is used by CI for reproducible installation. GitHub Actions has passed lint, typecheck, unit tests, and the production build for the current foundation branch.
 
 ## Local development
 
