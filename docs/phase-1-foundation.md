@@ -47,8 +47,8 @@ This is a visual and routing foundation, not the completed secure platform:
 
 ## Phase 1 acceptance still required
 
-- [ ] CI completes lint, typecheck, unit tests, and production build successfully.
-- [ ] Generated `package-lock.json` is reviewed and committed.
+- [x] CI completed lint, typecheck, unit tests, and production build successfully on run #20.
+- [x] Generated `package-lock.json` is committed and validated by CI.
 - [ ] Browser-level responsive and keyboard review completed.
 - [ ] Owner approves the authentication/access model.
 - [ ] Owner identifies a dedicated Supabase environment for YongYi.
