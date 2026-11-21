@@ -1,0 +1,33 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js
+/.next/
+/out/
+/build/
+
+# Tests and coverage
+/coverage/
+/playwright-report/
+/test-results/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Tooling
+.DS_Store
+*.log
+*.tsbuildinfo
+.vercel
+.turbo
+
+# Editor
+.vscode/
+.idea/
+
+# Local artifacts
+*.local
