@@ -4,7 +4,7 @@
 
 ## Project status
 
-- **Current phase:** Phase 0 — Requirements & Architecture
+- **Current phase:** Phase 0 — Requirements & Architecture (documentation baseline ready for owner review)
 - **Specification baseline:** Master Project Specification v1.0
 - **Repository:** `Velox-Lap/Yong-Yi`
 - **Default branch:** `main`
@@ -24,6 +24,7 @@ Supporting capabilities are introduced incrementally: memory gallery, narrative 
 
 | Document | Purpose |
 |---|---|
+| [Phase 0 Review](docs/00-phase-0-review.md) | Delivered baseline, owner decisions, and Phase 1 entry criteria |
 | [Project Charter](docs/00-project-charter.md) | Vision, goals, scope, non-goals, and principles |
 | [Product Requirements](docs/01-prd.md) | Personas, user journeys, functional and non-functional requirements |
 | [Architecture](docs/02-architecture.md) | System boundaries, modules, runtime flow, and technology decisions |
