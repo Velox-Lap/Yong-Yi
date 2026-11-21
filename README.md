@@ -37,6 +37,9 @@ Supporting capabilities are introduced incrementally: memory gallery, narrative 
 | [AI Agent Governance](docs/10-ai-agent-governance.md) | Autonomous Developer permissions and escalation rules |
 | [Coding Standards](docs/11-coding-standards.md) | Code quality, repository hygiene, and review conventions |
 | [Environment Configuration](docs/12-environment.md) | Environment variables and secret-handling rules |
+| [Deployment Architecture](docs/13-deployment-architecture.md) | Environment topology, delivery flow, rollback, and production gates |
+| [Motion Architecture](docs/14-motion-architecture.md) | Motion ownership, timing, reduced-motion, and lifecycle rules |
+| [3D World Architecture](docs/15-3d-architecture.md) | Scene boundaries, asset pipeline, fallback, and accessibility |
 | [Decision Log](docs/decisions/0001-initial-architecture.md) | Initial architecture decisions and unresolved decisions |
 
 ## Operating principles
